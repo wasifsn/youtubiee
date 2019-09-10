@@ -8,9 +8,11 @@ Note: please signup for a youtube API KEY AND add the key into API_KEY variable 
 ## Project setup
 ```
 npm i -g vue
+mkdir myApp
 cd myApp
-create youtubiee
 npm install @vue/cli
+create youtubiee
+cd youtubiee
 ```
 
 ### Compiles and hot-reloads for development
@@ -23,15 +25,3 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
