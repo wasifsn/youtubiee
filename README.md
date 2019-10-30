@@ -6,6 +6,7 @@ This is a basic Vue App that leverages the Youtube Data v3 Api to show results f
 Note: please signup for a youtube API KEY AND add the key into API_KEY variable in the APP component to make the App Run properly.
 
 ## Project setup
+* clone the app and follow below commands
 ```
 npm i -g vue
 mkdir myApp
